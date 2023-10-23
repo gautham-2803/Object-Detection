@@ -1,0 +1,8 @@
+Cabinet
+Chair
+Coffee_Mug
+Door
+Lamp
+Microwave
+Refridgerator
+Table
